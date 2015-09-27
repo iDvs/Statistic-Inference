@@ -1,0 +1,3 @@
+# Statistic-Inference
+
+For progect
